@@ -40,4 +40,4 @@ During this backend internship, I participated in building the backend infrastru
 
 ## 📄 Certificate:
 
-👉 [View Certificate](./certificate.pdf)
+👉 [View Certificate](./certificate.jpg)
