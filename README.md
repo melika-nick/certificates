@@ -10,6 +10,7 @@ These certifications reflect both theoretical learning and practical experience 
 ## 👨‍💻 About Me
 
 I'm a backend-focused developer passionate about clean code, scalable architecture, and continuous learning.  
+I hold a Bachelor's degree in Computer Engineering from Sajjad University of Technology.
 This repository serves as a portfolio of my growth through structured courses and real-world internships.
 
 ---
