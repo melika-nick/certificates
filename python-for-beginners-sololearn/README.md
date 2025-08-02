@@ -31,4 +31,4 @@ This course provided a solid foundation in **Python programming**, covering esse
 ## 📄 Certificate
 
 👉 [View Certificate](./certificate.jpg)
-👉 [View Certificate](https://api2.sololearn.com/v2/certificates/CT-7DBNJYX2/image/png?t=638126800515818820)
+👉 [View Certificate at SoloLearn](https://api2.sololearn.com/v2/certificates/CT-7DBNJYX2/image/png?t=638126800515818820)
