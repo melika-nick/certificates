@@ -8,7 +8,7 @@
 
 ## 📘 Course Overview
 
-This beginner-level course offers a structured introduction to **Java programming** using a professional and methodical teaching style. With **10 hours of video content**, it is designed for those starting from scratch and covers both programming fundamentals and object-oriented concepts.
+This beginner-level course offers a structured introduction to **Java programming** using a professional and methodical teaching style. With **37 hours of video content**, it is designed for those starting from scratch and covers both programming fundamentals and object-oriented concepts.
 
 ---
 
