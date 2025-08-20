@@ -24,8 +24,6 @@ During this 300-hour program, I gained hands-on experience and knowledge in:
 ## 🏅 Certificate
 You can verify the certification here:  
 [🔗 View Certificate](https://freecodecamp.org/certification/melika-nick/back-end-development-and-apis)
-
-👉 [View Certificate here](./certificate.PNG)
 ---
 
 ## 📌 Notes
